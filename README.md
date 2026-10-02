@@ -1,4 +1,4 @@
-﻿# SchoolJournalEF
+# SchoolJournalEF
 
 [![Build](https://github.com/borowoi/SchoolJournalEF/actions/workflows/build.yml/badge.svg)](https://github.com/borowoi/SchoolJournalEF/actions/workflows/build.yml)
 
